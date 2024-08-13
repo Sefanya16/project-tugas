@@ -1,0 +1,4 @@
+menyelesaikan permasalahan.
+memperbaikik
+mengulang submit
+menambah %[^\n] 

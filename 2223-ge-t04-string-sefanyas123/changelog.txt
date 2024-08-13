@@ -1,0 +1,6 @@
+menyelesaikan persoalan setelah banyak sekali percobaan 
+menambha -1 pada strlen-1
+mengembalikan ke code awal.
+membuat setiap baris mengurangi 2 char 
+dengan strlen(s)-2
+menambah indeks array.
