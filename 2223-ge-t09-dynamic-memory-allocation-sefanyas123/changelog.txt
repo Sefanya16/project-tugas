@@ -1,0 +1,7 @@
+mencoba
+2
+membuat agar dapat di inputkan
+menambah ;
+mengganti malloc 3  
+mengganti inisilisai pada course .
+membuat lopingan pada find student by id dan find course by code.
