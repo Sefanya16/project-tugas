@@ -1,0 +1,2 @@
+ sudah menyelesaikan persoalan. 
+ baru saja memperbaiki kesalahan karena tidak dapat nilai maksimum.
